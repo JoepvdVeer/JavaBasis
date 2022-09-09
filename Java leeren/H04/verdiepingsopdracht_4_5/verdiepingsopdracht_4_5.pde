@@ -1,0 +1,10 @@
+float seconden = 6969;
+println(seconden/3600);
+float minuten = 116.15;
+println(minuten/60);
+float uren = 1.9358333;
+println(uren/24);
+float dagen = 0.080659725;
+println(dagen/365);
+float jaren = 2.2098554E-4;
+println(jaren/365);
